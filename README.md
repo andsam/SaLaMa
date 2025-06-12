@@ -1,5 +1,5 @@
 # SaLaMa
-Local LLM assisted simultaneous writing
+SaLaMa - Simple Assisted LlAMa Authoring
 
 This is a quick and dirty vibecoded PoC
 
